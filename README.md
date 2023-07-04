@@ -61,8 +61,9 @@ Now, let's create a network file share that will be accessible to the security g
 8. Once the group is verified, click "OK" to add it.
 9. In the Permissions window, select the security group and assign the desired permissions (e.g., read, write, modify).
 
-![Screenshot 2](screenshot2.png)
 *Screenshot 2: Creating a Network File Share*
+![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/57e46d40-f025-4e3f-a90c-93dc8dcf9e27)
+
 
 ## Part 3: Assigning Permissions to a Folder
 
@@ -77,8 +78,9 @@ In this section, we will give the security group read and write permissions to a
 7. Once the group is verified, click "OK" to add it.
 8. Select the security group from the list and check the boxes for the desired permissions (e.g., read, write) under the "Allow" column.
 
-![Screenshot 3](screenshot3.png)
+
 *Screenshot 3: Assigning Permissions to a Folder*
+![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/1059164f-7db1-4339-8f8d-0afe3b7324b9)
 
 ## Testing the Permissions
 
