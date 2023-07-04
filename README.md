@@ -41,11 +41,10 @@ In this section, we will create a security group that will be used to assign per
 4. Enter a name for the group (e.g., "Accountants") and click "OK" to create the group.
 5. Once the group is created, you can add users to it by double-clicking on the group, selecting the "Members" tab, and clicking "Add".
 
+*Screenshots: Creating a Security Group*
 ![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/c7b510ca-0f01-4168-bd7b-e304c3463f76) ![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/fe3882b3-c563-4a99-ae8a-0e7979983bff) ![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/b3d6699a-f0c5-451c-bc18-acb6d13daf2d)
 
 
-
-*Screenshot 1: Creating a Security Group*
 
 ## Part 2: Creating a Network File Share
 
