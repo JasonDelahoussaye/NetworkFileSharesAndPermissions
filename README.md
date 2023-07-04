@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
+<h1>Setting Up Network File Shares and Permissions Tutorial</h1>
+This tutorial will guide you through the process of setting up network file shares and permissions using Windows Server and Active Directory.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [Network File Shares and Permissions](https://drive.google.com/file/d/1V_4tRnOFsca0z34e6vLhDkQvt7F80qUj/view?usp=drive_link)
+### [Network File Shares and Permissions](https://drive.google.com/file/d/1V_4tRnOFsca0z34e6vLhDkQvt7F80qUj/view?usp=drive_link)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -21,10 +21,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 - Windows Server 2022
 - Windows 10 (21H2)
-
-# Setting Up Network File Shares and Permissions Tutorial
-
-This tutorial will guide you through the process of setting up network file shares and permissions using Windows Server and Active Directory.
 
 ## Prerequisites
 
@@ -45,7 +41,10 @@ In this section, we will create a security group that will be used to assign per
 4. Enter a name for the group (e.g., "Accountants") and click "OK" to create the group.
 5. Once the group is created, you can add users to it by double-clicking on the group, selecting the "Members" tab, and clicking "Add".
 
-![Screenshot 1](screenshot1.png)
+![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/c7b510ca-0f01-4168-bd7b-e304c3463f76) ![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/fe3882b3-c563-4a99-ae8a-0e7979983bff) ![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/b3d6699a-f0c5-451c-bc18-acb6d13daf2d)
+
+
+
 *Screenshot 1: Creating a Security Group*
 
 ## Part 2: Creating a Network File Share
