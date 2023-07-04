@@ -86,6 +86,10 @@ In this section, we will give the security group read and write permissions to a
 
 To test the permissions, go to the client machine and try accessing the shared folder using a user account that is a member of the security group.
 
+*Screenshot 4: Testing Permissions [fail shown]*
+![image](https://github.com/JasonDelahoussaye/NetworkFileSharesAndPermissions/assets/106440235/eee215e0-b476-4281-915d-593c60d7e516)
+
+
 ## Clean Up
 
 Once you have completed the lab and no longer need the resources, make sure to shut down or delete the virtual machines to avoid unnecessary usage of your resources.
