@@ -3,7 +3,7 @@
 </p>
 
 <h1>Setting Up Network File Shares and Permissions Tutorial</h1>
-This tutorial will guide you through the process of setting up network file shares and permissions using Windows Server and Active Directory.<br />
+This tutorial will guide you through the process of setting up network file shares and permissions using Windows Server and Active Directory.  The video will guide you visually through the steps involved and then further on there are some notes and screenshots provided for highlights of some or all of the material.<br />
 
 
 <h2>Video Demonstration</h2>
